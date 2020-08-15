@@ -1,4 +1,4 @@
-### Hi there I'm Darin Joshua 😄👋 
+### Hi there, I'm Darin Joshua 😄👋 
 [![I'm Darin Joshua](https://res.cloudinary.com/darin-joshua/image/upload/v1597519821/EnhanceLinkedinBanner_2_o96nrs.png)](https://www.google.com)
 
 
@@ -8,6 +8,6 @@
 - 🤔 I’m looking for help with ... Development, New Technology and Projects ✨
 - 💬 Ask me about ... Anything related to Tech, Sports, Games, Music, Food & News 🏆
 - 📫 How to reach me: ... <a href="https://www.linkedin.com/in/darin-joshua-d"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
-- 😄 Pronouns: ... He, Him, His, Me ✌
-- ⚡ Fun fact: ... I'm a Tech Enthusiast and Passionate Learner ⭐
--->
+- 😁 Pronouns: ... He, Him, His, Me ✌
+- ⚡ Fun fact: ... I'm a Passionate Learner and Self-motivated Goal Achiever. ⭐
+--> An Enterprising & Energetic Engineer who loves to create & work in innovative, efficient & strategic ways towards Computer Science development. A Tech-Enthusiast who adores New Technologies, Innovations, etc. A Bold leader with Team Synergy enjoying to design, manage & plan solutions.
