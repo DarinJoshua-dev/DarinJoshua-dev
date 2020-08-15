@@ -6,8 +6,7 @@
 - 👯 I’m looking to collaborate on ... New cool opensource and innovative ideas, projects 🎯
 - 🤔 I’m looking for help with ... Development, New Technology and Projects ✨
 - 💬 Ask me about ... Anything related to Tech, Sports, Games, Music, Food & News 🏆
-- 📫 How to reach me: ... <p><a href="https://www.linkedin.com/in/darin-joshua-d" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://twitter.com/D_DarinJoshua" target="_blank"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a></p> 
-# FOLLOW ME 🤗🙂 
+- 📫 How to reach me: ... <p><a href="https://www.linkedin.com/in/darin-joshua-d" target="_blank"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://twitter.com/D_DarinJoshua" target="_blank"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a></p> FOLLOW ME 🤗🙂 
 - 😁 Pronouns: ... He, Him, His, Me ✌
 - ⚡ Fun fact: ... I'm a Passionate Learner and Self-motivated Goal Achiever. ⭐
 
