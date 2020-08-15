@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋 
+[![I'm Darin Joshua](https://res.cloudinary.com/darin-joshua/image/upload/v1597519821/EnhanceLinkedinBanner_2_o96nrs.png)](https://www.google.com)
 
-<!--
-**DarinJoshua-dev/DarinJoshua-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ... Many awesome ideas & innovations
+- 🌱 I’m currently learning ... Computer Science and Engineering 
+- 👯 I’m looking to collaborate on ... New cool opensource and innovative ideas, projects
+- 🤔 I’m looking for help with ... Development, New Technology and Projects
+- 💬 Ask me about ... Anything related to Tech, Sports, Games, Food & News
+- 📫 How to reach me: ... <a href="https://www.linkedin.com/in/darin-joshua-d"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
+- 😄 Pronouns: ... He, Him, His, Me
+- ⚡ Fun fact: ... I'm a Tech Enthusiast and Passionate Learner
 -->
