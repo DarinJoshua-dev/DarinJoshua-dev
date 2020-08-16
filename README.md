@@ -14,4 +14,4 @@
 
 ----> Darin Joshua, An Enterprising & Energetic Engineer who loves to create & work in innovative, efficient & strategic ways towards Computer Science development. A Tech-Enthusiast who adores New Technologies, Innovations, etc. A Bold leader with Team Synergy enjoying to design, manage & plan solutions. Also a Visionary who has tons ideas which needs a ton of help from many!!
 
-<img src="https://github.com/DarinJoshua-dev/DarinJoshua-dev/blob/master/My-Octocats-new-profile.gif" width="200" height="200"> 
+<img src="" width="200" height="200"> 
