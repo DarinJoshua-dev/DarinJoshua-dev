@@ -1,4 +1,6 @@
 ### Hello there, I'm Darin Joshua 😄👋 வணக்கம் from TAMIL NADU, INDIA 😊
+<!--
+**DarinJoshua-dev/DarinJoshua-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 [![I'm Darin Joshua](https://res.cloudinary.com/darin-joshua/image/upload/v1597519821/EnhanceLinkedinBanner_2_o96nrs.png)](https://www.google.com)
 
 - 🔭 I’m currently working on ... Many awesome ideas & innovations 💥
@@ -11,3 +13,5 @@
 - ⚡ Fun fact: ... I'm a Passionate Learner and Self-motivated Goal Achiever. ⭐
 
 ----> Darin Joshua, An Enterprising & Energetic Engineer who loves to create & work in innovative, efficient & strategic ways towards Computer Science development. A Tech-Enthusiast who adores New Technologies, Innovations, etc. A Bold leader with Team Synergy enjoying to design, manage & plan solutions. Also a Visionary who has tons ideas which needs a ton of help from many!!
+
+<img src="https://github.com/DarinJoshua-dev/DarinJoshua-dev/blob/master/My-Octocats-Profile.gif" width="150" height="150">
