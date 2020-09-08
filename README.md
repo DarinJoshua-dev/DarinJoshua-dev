@@ -4,7 +4,7 @@
 [![I'm Darin Joshua](https://res.cloudinary.com/darin-joshua/image/upload/v1597519821/EnhanceLinkedinBanner_2_o96nrs.png)](https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/)
 
 - 🔭 I’m currently working on ... Many awesome ideas & innovations 💥
-- 🌱 I’m currently learning ... Computer Science and Engineering. Also Exciting New & Old Technology 🤩 
+- 🌱 I’m currently learning ... Computer Science and Engineering. Also Exciting New & Old Technologies 🤩 
 - 👯 I’m looking to collaborate on ... New cool opensource and innovative ideas, projects 🎯
 - 🤔 I’m looking for help with ... Development, New Technology and Projects ✨
 - 💬 Ask me about ... Anything related to Tech, Sports, Games, Music, Food & News 🏆
