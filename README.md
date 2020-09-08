@@ -12,6 +12,6 @@
 - 😁 Pronouns: ... He, Him, His, We, Me ✌
 - ⚡ Fun fact: ... I'm a Passionate Learner and Self-motivated Goal Achiever. I love to research and learn new things ⭐
 
-----> Darin Joshua, An Enterprising & Energetic Engineer/Developer who loves to create & work in innovative, efficient & strategic ways towards Computer Science development. A Tech-Enthusiast who adores New Technologies, Innovations, etc. A Bold leader with Team Synergy enjoying to design, manage & plan solutions. Also a Visionary who has tons ideas which needs a ton of help from many!!
+----> Darin Joshua, An Enterprising & Energetic Engineer/Developer who loves to create & work in innovative, efficient & strategic ways towards Computer Science development. A Tech-Enthusiast who adores New Technologies, Innovations, etc. A Bold leader with Team Synergy enjoying to design, manage & plan solutions. Also a Visionary who has tons of ideas which needs a ton of help from many to blossom!!
 
 <img src="https://github.com/DarinJoshua-dev/DarinJoshua-dev/blob/master/My-Octocats-n-profile.gif" width="200" height="200"> 
