@@ -1,4 +1,4 @@
-### Hello there, I'm Darin Joshua 😄👋 வணக்கம் 🙏 from TAMIL NADU, INDIA 😊
+### Hello there, I'm Darin Joshua 😄👋 வணக்கம் 🙏 from TAMIL NADU, INDIA 😊 ![Darin Joshua](https://komarev.com/ghpvc/?username=DarinJoshua-dev&style=plastic)
 <!--
 **DarinJoshua-dev/DarinJoshua-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 [![I'm Darin Joshua](https://res.cloudinary.com/darin-joshua/image/upload/v1597519821/EnhanceLinkedinBanner_2_o96nrs.png)](https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/)
@@ -12,6 +12,12 @@
 - 😁 Pronouns: ... He, Him, His, We, Me ✌
 - ⚡ Fun fact: ... I'm a Passionate Learner and Self-motivated Goal Achiever. I love to research and learn new things ⭐
 
-----> Darin Joshua, An Enterprising & Energetic Engineer/Developer who loves to create & work in innovative, efficient & strategic ways towards Computer Science development. A Tech-Enthusiast who adores New Technologies, Innovations, etc. A Bold leader with Team Synergy enjoying to design, manage & plan solutions. Also a Visionary who has tons of ideas which needs a ton of help from many!!
+----> Darin Joshua, An Enterprising & Energetic Engineer/Developer who loves to create & work in innovative, efficient & strategic ways towards Computer Science development. A Tech-Enthusiast who adores New Technologies, Innovations, etc. A Bold leader with Team Synergy enjoying to design, manage & plan solutions. Also a Visionary who has tons of ideas which needs a ton of help!!
 
-<img src="https://github.com/DarinJoshua-dev/DarinJoshua-dev/blob/master/My-Octocats-n-profile.gif" width="200" height="200"> 
+---
+
+<p align="center">
+  <img align="center" src="https://github.com/DarinJoshua-dev/DarinJoshua-dev/blob/master/My-Octocats-n-profile.gif" width="200" height="200"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DarinJoshua-dev&show_icons=true&theme=tokyonight&line_height=20&hide=issues" />
+  <img width="26%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarinJoshua-dev&layout=compact&count_private=true&theme=tokyonight&line_height=20&exclude_repo=Emotion-Analysis,BoxoSlide-mini-game,Darin-Joshua-Portfolio">
+</p>
