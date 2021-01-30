@@ -1,4 +1,4 @@
-### Hello there, I'm Darin Joshua 😄👋 வணக்கம் 🙏 from TAMIL NADU, INDIA 😊 ![Darin Joshua](https://komarev.com/ghpvc/?username=DarinJoshua-dev&style=plastic)
+### Hello there, I'm Darin Joshua <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> வணக்கம் 🙏 from TAMIL NADU, INDIA 😄 ![Darin Joshua](https://komarev.com/ghpvc/?username=DarinJoshua-dev&style=plastic)
 <!--
 **DarinJoshua-dev/DarinJoshua-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 [![I'm Darin Joshua](https://res.cloudinary.com/darin-joshua/image/upload/v1597519821/EnhanceLinkedinBanner_2_o96nrs.png)](https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/)
