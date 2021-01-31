@@ -134,7 +134,7 @@
 
 <td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/docker/docker.png"></code></td>
 
-<td><code><img height="48px" src="https://img.icons8.com/color/48/000000/tableau-software.png"></code></td><img src=""/>
+<td><code><img height="48px" src="https://img.icons8.com/color/48/000000/tableau-software.png"></code></td>
 </tr>
 </tbody>
 </table>
