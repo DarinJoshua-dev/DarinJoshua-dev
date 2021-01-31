@@ -71,6 +71,8 @@
 <tbody>
 <tr>
 <td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/sql/sql.png"></code></td>
+  
+<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"></code></td>
 
 <td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/firebase/firebase.png"></code></td>
 
