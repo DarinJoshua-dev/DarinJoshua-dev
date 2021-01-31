@@ -34,6 +34,8 @@
 
 <td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/php/php.png"></code></td>
 
+<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/docker/docker.png"></code></td>
+
 <td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/django/django.png"></code></td>
 
 <td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/kotlin/kotlin.png"></code></td>
@@ -128,8 +130,6 @@
 <td><code><img height="48px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"></code></td>
 
 <td><code><img height="48px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></code></td>
-
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/docker/docker.png"></code></td>
 
 <td><code><img height="48px" src="https://img.icons8.com/color/48/000000/tableau-software.png"></code></td>
 </tr>
