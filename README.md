@@ -28,7 +28,7 @@
 
 <td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/express/express.png"></code></td>
 
-<td><code><img height="48px" src="https://img.icons8.com/wired/64/000000/postman-api.png"></code></td
+<td><code><img height="48px" src="https://img.icons8.com/wired/64/000000/postman-api.png"></code></td>
 
 <td><code><img height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code></td>
 
@@ -39,7 +39,6 @@
 <td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/kotlin/kotlin.png"></code></td>
 
 <td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/android/android.png"></code></td>
-
 </tr>
 </tbody>
 </table>
