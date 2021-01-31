@@ -37,8 +37,6 @@
 <td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/django/django.png"></code></td>
 
 <td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/kotlin/kotlin.png"></code></td>
-
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/android/android.png"></code></td>
 </tr>
 </tbody>
 </table>
@@ -152,6 +150,8 @@
 <td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/windows/windows.png"></code></td>
 
 <td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/linux/linux.png"></code></td>
+
+<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/android/android.png"></code></td>
 </tr>
 </tbody>
 </table>
