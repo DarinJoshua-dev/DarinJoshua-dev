@@ -10,7 +10,7 @@
 - 🤔 I’m looking for help with ... Full Stack Development, New Technologies, Current Trends and Projects ✨
 - 💬 Ask me about ... Anything related to Tech, Development, Innovation, Sports, Games, Music, Food & News 🏆
 - 📫 How to reach me: ... <p> FOLLOW ME 🤗🙂 <a href="https://www.linkedin.com/in/darin-joshua-d"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://twitter.com/D_DarinJoshua"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=twitter" alt="Twitter"></a> <a href="https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/"><img src="https://img.shields.io/website?logoColor=white&up_color=blue&up_message=visit%20now&url=https%3A%2F%2Fdarinjoshua-dev.github.io%2FDarin-Joshua-Portfolio%2F"></a> <a href="mailto:dj2000official@gmail.com"><img src="https://img.shields.io/static/v1?label=email&message=mail now&color=blue"></a></p> 
-- 😁 Pronouns: ... He, Him, His, We, Me ✌ 
+- 😁 Pronouns: ... <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/hehim.svg" width=60 height=20> He, Him, His, We, Me ✌ 
 - ⚡ Fun fact: ... I'm a Passionate Learner and Self-motivated Goal Achiever. I love to research and learn new things ⭐
 
 ----> Darin Joshua, An Enterprising & Energetic Engineer/Developer who loves to create & work in innovative, efficient & strategic ways towards Computer Science development. A Tech-Enthusiast who adores New Technologies, Innovations, etc. A Bold leader with Team Synergy enjoying to design, manage & plan solutions. Also a Visionary who has tons of ideas which needs a ton of help!!
