@@ -18,38 +18,67 @@
 ## 🌐 Tech Stacks
 
 ###### Learning
-![React](https://img.shields.io/badge/React-%231DA1F2.svg?&style=for-the-badge&logo=React&logoColor=black&color=61DAFB)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?&style=for-the-badge&logo=Node.js&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  
+
+<span><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code></span>
+
+<span><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></span>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/mongodb/mongodb.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/django/django.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/php/php.png"></code>
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/android/android.png"></code>
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+
+</span>
 
 ###### Front-End Stack
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/html/html.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/css/css.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/kotlin/kotlin.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/sass/sass.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png"></code>
 
 ###### Back-End Stack
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku)
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/firebase/firebase.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/heroku/heroku.png"></code>
 
 ###### Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c)
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></code>
 
 ###### Version Control
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/git/git.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/github/github.png"></code>
 
 ###### Tools and Software
-VScode <br>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png"></code>
 Adobe XD
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/tensorflow/tensorflow.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/windows/windows.png"></code>
 
 ---
 <p align="center">
