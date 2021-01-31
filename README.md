@@ -18,40 +18,39 @@
 ## 🌐 Tech Stacks
 
 ###### Learning
-  
 
-<span><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code></span>
-
-<span><code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></span>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/mongodb/mongodb.png"></code>
-
-<code><img height="40" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></code>
 
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/django/django.png"></code>
 
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/php/php.png"></code>
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/kotlin/kotlin.png"></code>
 
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/android/android.png"></code>
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 
-</span>
-
 ###### Front-End Stack
+
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/html/html.png"></code>
 
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/css/css.png"></code>
 
-<code><img height="40" src="https://github.com/github/explore/blob/master/topics/kotlin/kotlin.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></code>
 
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/sass/sass.png"></code>
 
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png"></code>
 
 ###### Back-End Stack
+
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"></code>
 
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/firebase/firebase.png"></code>
@@ -59,10 +58,16 @@
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/heroku/heroku.png"></code>
 
 ###### Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c)
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/python/python.png"></code>
+
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/c/c.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/java/java.png"></code>
 
 ###### Version Control
 
@@ -73,12 +78,20 @@
 ###### Tools and Software
 
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png"></code>
-Adobe XD
+
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png"></code>
 
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/tensorflow/tensorflow.png"></code>
 
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/aws/aws.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/docker/docker.png"></code>
+
+###### Misc
+
 <code><img height="40" src="https://github.com/github/explore/blob/master/topics/windows/windows.png"></code>
+
+<code><img height="40" src="https://github.com/github/explore/blob/master/topics/linux/linux.png"></code>
 
 ---
 <p align="center">
