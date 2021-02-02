@@ -20,7 +20,8 @@
 ###### Learning
 
 <table>
-<p align=left><tbody>
+<tbody>
+<p align=left>
 <tr>
 <td><code><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></td>
 
@@ -39,8 +40,8 @@
 <td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/django/django.png"></code></td>
 
 <td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/kotlin/kotlin.png"></code></td>
-</tr>
-</tbody></p>
+</tr></p>
+</tbody>
 </table>
 
 ###### Front-End Stack
@@ -114,8 +115,8 @@
 
 ###### Tools and Software
 
-<table>
-<p align=left><tbody>
+<p align=left><table>
+<tbody>
 <tr>
 <td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png"></code></td>
 
@@ -135,8 +136,8 @@
 
 <td><code><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/tableau-software.png"></code></td>
 </tr>
-</tbody></p>
-</table>
+</tbody>
+</table></p>
 
 ###### Misc
 
