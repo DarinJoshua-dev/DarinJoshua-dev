@@ -21,25 +21,25 @@
 
 <table>
 <tbody>
-<tr>
-<td><code><img height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></td>
+<p align=left><tr>
+<td><code><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/mongodb/mongodb.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/mongodb/mongodb.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/express/express.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/express/express.png"></code></td>
 
-<td><code><img height="48px" src="https://img.icons8.com/wired/64/000000/postman-api.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://img.icons8.com/wired/64/000000/postman-api.png"></code></td>
 
-<td><code><img height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/php/php.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/php/php.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/docker/docker.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/docker/docker.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/django/django.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/django/django.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/kotlin/kotlin.png"></code></td>
-</tr>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/kotlin/kotlin.png"></code></td>
+</tr></p>
 </tbody>
 </table>
 
@@ -47,21 +47,21 @@
 
 <table>
 <tbody>
-<tr>
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/html/html.png"></code></td>
+<p align=left><tr>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/html/html.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/css/css.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/css/css.png"></code></td>
 
-<td><code><img height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></td>
 
-<td><code><img height="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/sass/sass.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/sass/sass.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png"></code></td>
-</tr>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png"></code></td>
+</tr></p>
 </tbody>
 </table>
 
@@ -69,15 +69,15 @@
 
 <table>
 <tbody>
-<tr>
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/sql/sql.png"></code></td>
+<p align=left><tr>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/sql/sql.png"></code></td>
   
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/firebase/firebase.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/firebase/firebase.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/heroku/heroku.png"></code></td>
-</tr>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/heroku/heroku.png"></code></td>
+</tr></p>
 </tbody>
 </table>
 
@@ -86,17 +86,17 @@
 
 <table>
 <tbody>
-<tr>
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/python/python.png"></code></td>
+<p align=left><tr>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/python/python.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></code></td>
 
-<td><code><img height="48px" src="https://img.icons8.com/color/48/000000/c-programming.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/c-programming.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png"></code></td>
 
-<td><code><img height="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code></td>
-</tr>
+<td><code><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code></td>
+</tr></p>
 </tbody>
 </table>
 
@@ -104,11 +104,11 @@
 
 <table>
 <tbody>
-<tr>
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/git/git.png"></code></td>
+<p align=left><tr>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/git/git.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/github/github.png"></code></td>
-</tr>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/github/github.png"></code></td>
+</tr></p>
 </tbody>
 </table>
 
@@ -116,25 +116,25 @@
 
 <table>
 <tbody>
-<tr>
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png"></code></td>
+<p align=left><tr>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png"></code></td>
 
-<td><code><img height="48px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"></code></td>
 
-<td><code><img height="48px" src="https://img.icons8.com/fluent/48/000000/google-drive--v2.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://img.icons8.com/fluent/48/000000/google-drive--v2.png"></code></td>
 
-<td><code><img height="48px" src="https://img.icons8.com/fluent/48/000000/microsoft-office-2019.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://img.icons8.com/fluent/48/000000/microsoft-office-2019.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/tensorflow/tensorflow.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/tensorflow/tensorflow.png"></code></td>
 
-<td><code><img height="48px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"></code></td>
 
-<td><code><img height="48px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></code></td>
 
-<td><code><img height="48px" src="https://img.icons8.com/color/48/000000/tableau-software.png"></code></td>
-</tr>
+<td><code><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/tableau-software.png"></code></td>
+</tr></p>
 </tbody>
 </table>
 
@@ -142,19 +142,19 @@
 
 <table>
 <tbody>
-<tr>
-<td><code><img height="48px" src="https://img.icons8.com/fluent/48/000000/chrome.png"></code></td>
+<p align=left><tr>
+<td><code><img height="48px" width="48px" src="https://img.icons8.com/fluent/48/000000/chrome.png"></code></td>
   
-<td><code><img height="48px" src="https://img.icons8.com/color/48/000000/vmware.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/vmware.png"></code></td>
 
-<td><code><img height="48px" src="https://img.icons8.com/color/48/000000/virtualbox.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/virtualbox.png"></code></td>
   
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/windows/windows.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/windows/windows.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/linux/linux.png"></code></td>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/linux/linux.png"></code></td>
 
-<td><code><img height="48px" src="https://github.com/github/explore/blob/master/topics/android/android.png"></code></td>
-</tr>
+<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/android/android.png"></code></td>
+</tr></p>
 </tbody>
 </table>
 
