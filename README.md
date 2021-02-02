@@ -115,8 +115,9 @@
 
 ###### Tools and Software
 
-<p align=left><table>
+<table>
 <tbody>
+<p align=left>
 <tr>
 <td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png"></code></td>
 
@@ -136,8 +137,8 @@
 
 <td><code><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/tableau-software.png"></code></td>
 </tr>
-</tbody>
-</table></p>
+</tbody></p>
+</table>
 
 ###### Misc
 
