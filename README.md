@@ -163,7 +163,7 @@
 ---
 <p align="center">
   <img align="center" src="https://github.com/DarinJoshua-dev/DarinJoshua-dev/blob/master/My-Octocats-n-profile.gif" width="200" height="200"> 
-  <img width="40.83%" align="center" src="https://github-readme-stats.vercel.app/api?username=DarinJoshua-dev&include_all_commits=2020&show_icons=true&cache_seconds=3000&theme=tokyonight&line_height=20" />
+  <img width="40.87%" align="center" src="https://github-readme-stats.vercel.app/api?username=DarinJoshua-dev&include_all_commits=2020&show_icons=true&cache_seconds=3000&theme=tokyonight&line_height=20" />
   <img width="28.95%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarinJoshua-dev&layout=compact&count_private=true&theme=tokyonight&line_height=20&exclude_repo=Emotion-Analysis,BoxoSlide-mini-game,Darin-Joshua-Portfolio">
 </p>
 
