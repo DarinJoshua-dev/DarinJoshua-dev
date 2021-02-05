@@ -151,7 +151,7 @@
 
 <td><code><a href="https://www.virtualbox.org/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/virtualbox.png"></a></code></td>
   
-<td><code<a href="https://www.microsoft.com/en-in/windows/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/windows/windows.png"></a></code></td>
+<td><code><a href="https://www.microsoft.com/en-in/windows" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/windows/windows.png"></a></code></td>
 
 <td><code><a href="https://www.linux.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/linux/linux.png"></a></code></td>
 
