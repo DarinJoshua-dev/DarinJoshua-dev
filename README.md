@@ -33,7 +33,7 @@
 
 <td><code><a href="https://www.typescriptlang.org/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code></td>
 
-<td><code><a href="https://www.php.net/" target="_blank">><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/php/php.png"></code></td>
+<td><code><a href="https://www.php.net/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/php/php.png"></code></td>
 
 <td><code><a href="https://www.docker.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/docker/docker.png"></code></td>
 
