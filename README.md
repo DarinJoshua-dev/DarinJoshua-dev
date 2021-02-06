@@ -49,15 +49,15 @@
 <table>
 <tbody>
 <p align=left><tr>
-<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/html/html.png"></code></td>
+<td><code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/html/html.png"></code></td>
 
-<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/css/css.png"></code></td>
+<td><code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/css/css.png"></code></td>
 
-<td><code><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></td>
+<td><code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></td>
 
 <td><code><a href="https://reactjs.org/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code></td>
 
-<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></code></td>
+<td><code><a href="https://flutter.dev/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></code></td>
 
 <td><code><a href="https://sass-lang.com" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/sass/sass.png"></a></code></td>
 
@@ -71,13 +71,13 @@
 <table>
 <tbody>
 <p align=left><tr>
-<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/sql/sql.png"></code></td>
+<td><code><a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/sql/sql.png"></code></td>
   
-<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"></code></td>
+<td><code><a href="https://www.mysql.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"></code></td>
 
 <td><code><a href="https://firebase.google.com/" target="_blank"> <img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/firebase/firebase.png"></a></code></td>
 
-<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/heroku/heroku.png"></code></td>
+<td><code><a href="https://www.heroku.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/heroku/heroku.png"></code></td>
 </tr></p>
 </tbody>
 </table>
@@ -88,15 +88,15 @@
 <table>
 <tbody>
 <p align=left><tr>
-<td><code><a href="https://www.python.org" target="_blank"> <img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/python/python.png"></a></code></td>
+<td><code><a href="https://www.python.org" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/python/python.png"></a></code></td>
 
-<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></code></td>
+<td><code><a href="https://dart.dev/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></code></td>
 
 <td><code><a href="https://www.cprogramming.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/c-programming.png"></a></code></td>
 
-<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png"></code></td>
+<td><code><a href="https://isocpp.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png"></code></td>
 
-<td><code><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code></td>
+<td><code><a href="https://www.java.com/en/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code></td>
 </tr></p>
 </tbody>
 </table>
@@ -106,9 +106,9 @@
 <table>
 <tbody>
 <p align=left><tr>
-<td><code> <a href="https://git-scm.com/" target="_blank"> <img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/git/git.png"></a></code></td>
+<td><code><a href="https://git-scm.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/git/git.png"></a></code></td>
 
-<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/github/github.png"></code></td>
+<td><code><a href="https://github.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/github/github.png"></code></td>
 </tr></p>
 </tbody>
 </table>
