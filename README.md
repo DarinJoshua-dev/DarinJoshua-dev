@@ -119,11 +119,11 @@
 <tbody>
 <p align=left>
 <tr>
-<td><code><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png"></code></td>
+<td><code><a href="https://code.visualstudio.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png"></code></td>
 
-<td><code><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"></code></td>
+<td><code><a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"></code></td>
 
-<td><code><img height="48px" width="48px" src="https://img.icons8.com/fluent/48/000000/google-drive--v2.png"></code></td>
+<td><code><a href="https://www.google.com/intl/en_in/drive/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/fluent/48/000000/google-drive--v2.png"></code></td>
 
 <td><code><img height="48px" width="48px" src="https://img.icons8.com/fluent/48/000000/microsoft-office-2019.png"></code></td>
 
