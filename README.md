@@ -31,15 +31,15 @@
 
 <td><code><a href="https://postman.com" target="_blank"><img height="48px" width="48px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a></code></td>
 
-<td><code><a href="https://www.typescriptlang.org/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code></td>
+<td><code><a href="https://www.typescriptlang.org/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a></code></td>
 
-<td><code><a href="https://www.php.net/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/php/php.png"></code></td>
+<td><code><a href="https://www.php.net/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/php/php.png"></a></code></td>
 
-<td><code><a href="https://www.docker.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/docker/docker.png"></code></td>
+<td><code><a href="https://www.docker.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/docker/docker.png"></a></code></td>
 
 <td><code><a href="https://www.djangoproject.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/django/django.png"></a></code></td>
 
-<td><code><a href="https://kotlinlang.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/kotlin/kotlin.png"></code></td>
+<td><code><a href="https://kotlinlang.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/kotlin/kotlin.png"></a></code></td>
 </tr></p>
 </tbody>
 </table>
@@ -49,15 +49,15 @@
 <table>
 <tbody>
 <p align=left><tr>
-<td><code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/html/html.png"></code></td>
+<td><code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/html/html.png"></a></code></td>
 
-<td><code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/css/css.png"></code></td>
+<td><code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/css/css.png"></a></code></td>
 
-<td><code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code></td>
+<td><code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code></td>
 
 <td><code><a href="https://reactjs.org/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code></td>
 
-<td><code><a href="https://flutter.dev/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></code></td>
+<td><code><a href="https://flutter.dev/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></a></code></td>
 
 <td><code><a href="https://sass-lang.com" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/sass/sass.png"></a></code></td>
 
@@ -71,13 +71,13 @@
 <table>
 <tbody>
 <p align=left><tr>
-<td><code><a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/sql/sql.png"></code></td>
+<td><code><a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/sql/sql.png"></a></code></td>
   
-<td><code><a href="https://www.mysql.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"></code></td>
+<td><code><a href="https://www.mysql.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"></a></code></td>
 
 <td><code><a href="https://firebase.google.com/" target="_blank"> <img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/firebase/firebase.png"></a></code></td>
 
-<td><code><a href="https://www.heroku.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/heroku/heroku.png"></code></td>
+<td><code><a href="https://www.heroku.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/heroku/heroku.png"></a></code></td>
 </tr></p>
 </tbody>
 </table>
@@ -90,13 +90,13 @@
 <p align=left><tr>
 <td><code><a href="https://www.python.org" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/python/python.png"></a></code></td>
 
-<td><code><a href="https://dart.dev/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></code></td>
+<td><code><a href="https://dart.dev/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></a></code></td>
 
 <td><code><a href="https://www.cprogramming.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/c-programming.png"></a></code></td>
 
-<td><code><a href="https://isocpp.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png"></code></td>
+<td><code><a href="https://isocpp.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png"></a></code></td>
 
-<td><code><a href="https://www.java.com/en/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></code></td>
+<td><code><a href="https://www.java.com/en/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a></code></td>
 </tr></p>
 </tbody>
 </table>
@@ -108,7 +108,7 @@
 <p align=left><tr>
 <td><code><a href="https://git-scm.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/git/git.png"></a></code></td>
 
-<td><code><a href="https://github.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/github/github.png"></code></td>
+<td><code><a href="https://github.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/github/github.png"></a></code></td>
 </tr></p>
 </tbody>
 </table>
@@ -119,19 +119,19 @@
 <tbody>
 <p align=left>
 <tr>
-<td><code><a href="https://code.visualstudio.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png"></code></td>
+<td><code><a href="https://code.visualstudio.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png"></a></code></td>
 
-<td><code><a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"></code></td>
+<td><code><a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"></a></code></td>
 
-<td><code><a href="https://www.google.com/intl/en_in/drive/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/fluent/48/000000/google-drive--v2.png"></code></td>
+<td><code><a href="https://www.google.com/intl/en_in/drive/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/fluent/48/000000/google-drive--v2.png"></a></code></td>
 
-<td><code><a href="https://www.office.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/fluent/48/000000/microsoft-office-2019.png"></code></td>
+<td><code><a href="https://www.office.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/fluent/48/000000/microsoft-office-2019.png"></a></code></td>
 
-<td><code><a href="https://jupyter.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png"></code></td>
+<td><code><a href="https://jupyter.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png"></a></code></td>
 
-<td><code><a href="https://www.tensorflow.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/tensorflow/tensorflow.png"></code></td>
+<td><code><a href="https://www.tensorflow.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/tensorflow/tensorflow.png"></a></code></td>
 
-<td><code><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"></code></td>
+<td><code><a href="https://cloud.google.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"></a></code></td>
 
 <td><code><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></code></td>
 
