@@ -1,6 +1,6 @@
 ### Hello there, I'm <a href="https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/"> Darin Joshua </a> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> வணக்கம் 🙏 from TAMIL NADU, INDIA 😄 ![Darin Joshua](https://komarev.com/ghpvc/?username=DarinJoshua-dev&style=plastic)
 <!--
-**DarinJoshua-dev/DarinJoshua-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+**DarinJoshua-dev/DarinJoshua-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile. -->
 [![I'm Darin Joshua](https://res.cloudinary.com/darin-joshua/image/upload/v1597519821/EnhanceLinkedinBanner_2_o96nrs.png)](https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/)
 
 - 📢 About me ... I'm an aspiring Full Stack Developer and UI/UX Designer 💻
@@ -133,11 +133,11 @@
 
 <td><code><a href="https://cloud.google.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"></a></code></td>
 
-<td><code><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></code></td>
+<td><code><a href="https://aws.amazon.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></code></td>
 
-<td><code><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/tableau-software.png"></code></td>
-</tr>
-</tbody></p>
+<td><code><a href="https://www.tableau.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/tableau-software.png"></code></td>
+</tr></p>
+</tbody>
 </table>
 
 ###### Misc
