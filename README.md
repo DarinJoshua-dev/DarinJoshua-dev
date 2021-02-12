@@ -23,23 +23,23 @@
 <tbody>
 <p align=left>
 <tr>
-<td><code><a href="https://nodejs.org" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></code></td>
+<td><a href="https://nodejs.org" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></td>
 
 <td><a href="https://www.mongodb.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/mongodb/mongodb.png"></a></td>
 
-<td><code><a href="https://expressjs.com" target="_blank"> <img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/express/express.png"></a></code></td>
+<td><a href="https://expressjs.com" target="_blank"> <img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/express/express.png"></a></td>
 
-<td><code><a href="https://postman.com" target="_blank"><img height="48px" width="48px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a></code></td>
+<td><a href="https://postman.com" target="_blank"><img height="48px" width="48px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a></td>
 
-<td><code><a href="https://www.typescriptlang.org/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a></code></td>
+<td><a href="https://www.typescriptlang.org/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a></td>
 
-<td><code><a href="https://www.php.net/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/php/php.png"></a></code></td>
+<td><a href="https://www.php.net/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/php/php.png"></a></td>
 
-<td><code><a href="https://www.docker.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/docker/docker.png"></a></code></td>
+<td><a href="https://www.docker.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/docker/docker.png"></a></td>
 
-<td><code><a href="https://www.djangoproject.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/django/django.png"></a></code></td>
+<td><a href="https://www.djangoproject.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/django/django.png"></a></td>
 
-<td><code><a href="https://kotlinlang.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/kotlin/kotlin.png"></a></code></td>
+<td><a href="https://kotlinlang.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/kotlin/kotlin.png"></a></td>
 </tr></p>
 </tbody>
 </table>
@@ -49,19 +49,19 @@
 <table>
 <tbody>
 <p align=left><tr>
-<td><code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/html/html.png"></a></code></td>
+<td><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/html/html.png"></a></td>
 
-<td><code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/css/css.png"></a></code></td>
+<td><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/css/css.png"></a></td>
 
-<td><code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code></td>
+<td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></td>
 
-<td><code><a href="https://reactjs.org/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></code></td>
+<td><a href="https://reactjs.org/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></a></td>
 
-<td><code><a href="https://flutter.dev/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></a></code></td>
+<td><a href="https://flutter.dev/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/flutter/flutter.png"></a></td>
 
-<td><code><a href="https://sass-lang.com" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/sass/sass.png"></a></code></td>
+<td><a href="https://sass-lang.com" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/sass/sass.png"></a></td>
 
-<td><code><a href="https://getbootstrap.com" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png"></a></code></td>
+<td><a href="https://getbootstrap.com" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/bootstrap/bootstrap.png"></a></td>
 </tr></p>
 </tbody>
 </table>
