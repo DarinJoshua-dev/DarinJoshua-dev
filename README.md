@@ -71,13 +71,13 @@
 <table>
 <tbody>
 <p align=left><tr>
-<td><code><a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/sql/sql.png"></a></code></td>
+<td><a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/sql/sql.png"></a></td>
   
-<td><code><a href="https://www.mysql.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"></a></code></td>
+<td><a href="https://www.mysql.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/mysql/mysql.png"></a></td>
 
-<td><code><a href="https://firebase.google.com/" target="_blank"> <img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/firebase/firebase.png"></a></code></td>
+<td><a href="https://firebase.google.com/" target="_blank"> <img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/firebase/firebase.png"></a></td>
 
-<td><code><a href="https://www.heroku.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/heroku/heroku.png"></a></code></td>
+<td><a href="https://www.heroku.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/heroku/heroku.png"></a></td>
 </tr></p>
 </tbody>
 </table>
@@ -88,15 +88,15 @@
 <table>
 <tbody>
 <p align=left><tr>
-<td><code><a href="https://www.python.org" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/python/python.png"></a></code></td>
+<td><a href="https://www.python.org" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/python/python.png"></a></td>
 
-<td><code><a href="https://dart.dev/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></a></code></td>
+<td><a href="https://dart.dev/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/dart/dart.png"></a></td>
 
-<td><code><a href="https://www.cprogramming.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/c-programming.png"></a></code></td>
+<td><a href="https://www.cprogramming.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/c-programming.png"></a></td>
 
-<td><code><a href="https://isocpp.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png"></a></code></td>
+<td><a href="https://isocpp.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/cpp/cpp.png"></a></td>
 
-<td><code><a href="https://www.java.com/en/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a></code></td>
+<td><a href="https://www.java.com/en/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"></a></td>
 </tr></p>
 </tbody>
 </table>
