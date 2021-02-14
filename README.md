@@ -106,9 +106,9 @@
 <table>
 <tbody>
 <p align=left><tr>
-<td><code><a href="https://git-scm.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/git/git.png"></a></code></td>
+<td><a href="https://git-scm.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/git/git.png"></a></td>
 
-<td><code><a href="https://github.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/github/github.png"></a></code></td>
+<td><a href="https://github.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/github/github.png"></a></td>
 </tr></p>
 </tbody>
 </table>
