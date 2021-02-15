@@ -119,23 +119,23 @@
 <tbody>
 <p align=left>
 <tr>
-<td><code><a href="https://code.visualstudio.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png"></a></code></td>
+<td><a href="https://code.visualstudio.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png"></a></td>
 
-<td><code><a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"></a></code></td>
+<td><a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"></a></td>
 
-<td><code><a href="https://www.google.com/intl/en_in/drive/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/fluent/48/000000/google-drive--v2.png"></a></code></td>
+<td><a href="https://www.google.com/intl/en_in/drive/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/fluent/48/000000/google-drive--v2.png"></a></td>
 
-<td><code><a href="https://www.office.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/fluent/48/000000/microsoft-office-2019.png"></a></code></td>
+<td><a href="https://www.office.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/fluent/48/000000/microsoft-office-2019.png"></a></td>
 
-<td><code><a href="https://jupyter.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png"></a></code></td>
+<td><a href="https://jupyter.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/jupyter-notebook/jupyter-notebook.png"></a></td>
 
-<td><code><a href="https://www.tensorflow.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/tensorflow/tensorflow.png"></a></code></td>
+<td><a href="https://www.tensorflow.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/tensorflow/tensorflow.png"></a></td>
 
-<td><code><a href="https://cloud.google.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"></a></code></td>
+<td><a href="https://cloud.google.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"></a></td>
 
-<td><code><a href="https://aws.amazon.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></code></td>
+<td><a href="https://aws.amazon.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></td>
 
-<td><code><a href="https://www.tableau.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/tableau-software.png"></code></td>
+<td><a href="https://www.tableau.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/tableau-software.png"></td>
 </tr></p>
 </tbody>
 </table>
