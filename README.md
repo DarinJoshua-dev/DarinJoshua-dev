@@ -145,17 +145,17 @@
 <table>
 <tbody>
 <p align=left><tr>
-<td><code><a href="https://www.google.com/intl/en_in/chrome/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/fluent/48/000000/chrome.png"></a></code></td>
+<td><a href="https://www.google.com/intl/en_in/chrome/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/fluent/48/000000/chrome.png"></a></td>
   
-<td><code><a href="https://www.vmware.com/in/products/workstation-pro.html" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/vmware.png"></a></code></td>
+<td><a href="https://www.vmware.com/in/products/workstation-pro.html" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/vmware.png"></a></td>
 
-<td><code><a href="https://www.virtualbox.org/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/virtualbox.png"></a></code></td>
+<td><a href="https://www.virtualbox.org/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/virtualbox.png"></a></td>
   
-<td><code><a href="https://www.microsoft.com/en-in/windows" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/windows/windows.png"></a></code></td>
+<td><a href="https://www.microsoft.com/en-in/windows" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/windows/windows.png"></a></td>
 
-<td><code><a href="https://www.linux.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/linux/linux.png"></a></code></td>
+<td><a href="https://www.linux.org/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/linux/linux.png"></a></td>
 
-<td><code><a href="https://www.android.com/intl/en_in/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/android/android.png"></a></code></td>
+<td><a href="https://www.android.com/intl/en_in/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/android/android.png"></a></td>
 </tr></p>
 </tbody>
 </table>
