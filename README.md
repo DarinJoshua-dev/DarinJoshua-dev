@@ -24,10 +24,12 @@
 <p align=left>
 <tr>
 <td><a href="https://nodejs.org" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></a></td>
-
+  
 <td><a href="https://www.mongodb.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/mongodb/mongodb.png"></a></td>
 
 <td><a href="https://expressjs.com" target="_blank"> <img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/express/express.png"></a></td>
+
+<td><a href="https://angular.io/" target="_blank"> <img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/angular/angular.png"></a></td>
 
 <td><a href="https://postman.com" target="_blank"><img height="48px" width="48px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a></td>
 
