@@ -31,7 +31,7 @@
 
 <td><a href="https://angular.io/" target="_blank"> <img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/angular/angular.png"></a></td>
 
-<td><a href="https://postman.com" target="_blank"><img height="48px" width="48px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a></td>
+<td><a href="https://www.jenkins.io/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/jenkins/jenkins.png"></a></td>
 
 <td><a href="https://www.typescriptlang.org/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a></td>
 
@@ -122,6 +122,8 @@
 <p align=left>
 <tr>
 <td><a href="https://code.visualstudio.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/visual-studio-code/visual-studio-code.png"></a></td>
+  
+<td><a href="https://postman.com" target="_blank"><img height="48px" width="48px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a></td>
 
 <td><a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"></a></td>
 
