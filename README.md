@@ -31,11 +31,11 @@
 
 <td><a href="https://angular.io/" target="_blank"> <img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/angular/angular.png"></a></td>
 
-<td><a href="https://www.jenkins.io/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/jenkins/jenkins.png"></a></td>
-
 <td><a href="https://www.typescriptlang.org/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></a></td>
 
 <td><a href="https://www.php.net/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/php/php.png"></a></td>
+
+<td><a href="https://www.jenkins.io/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/jenkins/jenkins.png"></a></td>
 
 <td><a href="https://www.docker.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/master/topics/docker/docker.png"></a></td>
 
