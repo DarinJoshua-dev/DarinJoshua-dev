@@ -35,7 +35,7 @@
 
 <td><a href="https://www.php.net/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></a></td>
 
-<td><a href="https://www.jenkins.io/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jenkins/jenkins.png"></a></td>
+<td><a href="https://www.jenkins.io/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/jenkins.png"></a></td>
 
 <td><a href="https://www.docker.com/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></a></td>
 
@@ -75,11 +75,11 @@
 <p align=left><tr>
 <td><a href="https://www.w3schools.com/sql/sql_intro.asp" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></td>
   
-<td><a href="https://www.mysql.com/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></a></td>
+<td><a href="https://www.mysql.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/main/topics/mysql/mysql.png"></a></td>
 
 <td><a href="https://firebase.google.com/" target="_blank"> <img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a></td>
 
-<td><a href="https://www.heroku.com/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/heroku/heroku.png"></a></td>
+<td><a href="https://www.heroku.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/heroku.png"></a></td>
 </tr></p>
 </tbody>
 </table>
@@ -110,7 +110,7 @@
 <p align=left><tr>
 <td><a href="https://git-scm.com/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></td>
 
-<td><a href="https://github.com/" target="_blank"><img height="48px" width="48px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/github/github.png"></a></td>
+<td><a href="https://github.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/main/topics/github/github.png"></a></td>
 </tr></p>
 </tbody>
 </table>
