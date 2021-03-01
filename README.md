@@ -179,7 +179,7 @@
   <summary>My Contributions and Streak 🔥</summary>
   <br>
 <p align="center">
-  <a href="https://github.com/DarinJoshua-dev/github-readme-streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarinJoshua-dev&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
 </p>
