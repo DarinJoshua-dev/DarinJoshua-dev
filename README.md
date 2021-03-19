@@ -5,7 +5,7 @@
 
 - 📢 About me ... I'm an aspiring Full Stack Developer and UI/UX Designer 💻
 - 🔭 I’m currently working on ... A lot of awesome ideas & innovative realtime projects 💥
-- 🌱 I’m currently learning ... Computer Science and Engineering. Also Exciting New & Old Technologies, Concepts 🤩 
+- 🌱 I’m currently learning ... Computer Science and Engineering. Also Exciting New & Old Technologies, Concepts, DSA 🤩 
 - 🤝 I’m looking to collaborate on ... New cool opensource and ingenious ideas, projects 🎯
 - 🤔 I’m looking for help with ... Full Stack Development, Latest Technologies, Current Trends & Projects ✨
 - 💬 Ask me about ... Anything related to Technology, Development, Innovation, Sports, Games, Music, Food & News 🥇
