@@ -184,7 +184,7 @@
 
 <b>Note: </b>This chart is only a metric of the languages my public code on GitHub comprises & does not reflect my experience or skill level.
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats 
 
 <details>
   <summary>My Contributions and Streak 🔥</summary>
@@ -193,6 +193,13 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DarinJoshua-dev&theme=dark&hide_border=true&background=0D1117&stroke=0000"/>
   </a>
+</p>
+</details>
+<details>
+  <summary>My Contributions Graph 📈</summary>
+  <br>
+<p align=center>
+<img align=center src="https://activity-graph.herokuapp.com/graph?username=DarinJoshua-dev&theme=xcode">
 </p>
 </details>
 <details>
