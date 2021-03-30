@@ -3,7 +3,7 @@
 **DarinJoshua-dev/DarinJoshua-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile. -->
 [![I'm Darin Joshua](https://res.cloudinary.com/darin-joshua/image/upload/v1597519821/EnhanceLinkedinBanner_2_o96nrs.png)](https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/)
 
-- 📢 About me ... An aspiring Full Stack Developer & UI/UX Designer 💻
+- 📢 About me ... An aspiring Full Stack Developer and UI/UX Designer 💻
 - 🔭 I’m currently working on ... A lot of awesome ideas & innovative realtime projects 💥
 - 🌱 I’m currently learning ... Computer Science and Engineering. Also Exciting New & Old Technologies, Concepts, DSA 🤩 
 - 🤝 I’m looking to collaborate on ... Cool new opensource and ingenious ideas, projects 🎯
