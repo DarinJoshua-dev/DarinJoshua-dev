@@ -148,7 +148,7 @@
 <tbody>
 <p align=left><tr><td><a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/adobe-xd.png"></a></td>
   
-<td><a href="https://code.visualstudio.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/main/topics/figma/figma.png"></a></td>  
+<td><a href="https://www.figma.com/" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/main/topics/figma/figma.png"></a></td>  
 
 <td><a href="https://www.canva.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/plasticine/100/000000/canva.png"></a></td>
 </tr></p>
