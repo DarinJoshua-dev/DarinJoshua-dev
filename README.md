@@ -187,7 +187,7 @@
 ## 📊 GitHub Stats 
 
 <details>
-  <summary>My Contributions and Streak 🔥</summary>
+  <summary>My Contributions & Streak 🔥</summary>
   <br>
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
