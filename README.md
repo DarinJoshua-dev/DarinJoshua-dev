@@ -182,7 +182,7 @@
   <img width="28.95%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DarinJoshua-dev&layout=compact&count_private=true&theme=tokyonight&line_height=20&exclude_repo=Emotion-Analysis,BoxoSlide-mini-game,Darin-Joshua-Portfolio">
 </p>
 
-<b>Note: </b>This chart is only a metric of the languages my public code on GitHub comprises & does not reflect my experience or skill level.
+<b>Note: </b>This chart is only a metric of the languages of my public code on GitHub comprises & does not reflect my experience or skill level.
 
 ## 📊 GitHub Stats 
 
