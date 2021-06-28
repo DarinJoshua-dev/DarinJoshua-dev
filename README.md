@@ -13,7 +13,7 @@
 - 😁 Pronouns: ... He, Him, His, We, Me ✌ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/hehim.svg" width=55 height=20>
 - ⚡ Fun fact: ... I'm a Passionate Learner and a Self-motivated Goal Achiever. I love to research, explore & learn old and new tech trends ⭐
 
-----> Darin Joshua, An Enterprising & Energetic Engineer/Developer who loves to create & work in innovative, efficient & strategic ways towards Computer Science & Tech development. A Tech-Enthusiast who adores New Technologies, Innovations, etc. A Bold leader with Team Synergy who enjoys to design, manage & plan solutions. Also a Visionary who has tons of ideas which needs a ton of contributions!!
+----> Darin Joshua, An Enterprising & Energetic Engineer/Developer who loves to create & work in innovative, efficient & strategic ways towards Computer Science & Tech development. A Tech-Enthusiast who adores New Technologies, Innovations, etc. A Bold leader with Team Synergy who enjoys to design, manage & plan solutions. Also a Visionary who has tons of ideas which needs a ton of contribution!!
 
 ## 🌐 Tech Stacks
 
