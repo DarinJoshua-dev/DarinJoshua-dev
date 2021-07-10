@@ -210,4 +210,4 @@
 </p>
 </details>
 
-# <h3 align="center"><b>⚡ Check out <a href="https://github.com/DarinJoshua-dev?tab=repositories">my repos</a>! ⭐ Stars are appreciated! ⚡</b></h3>
+# <h3 align="center"><b>⚡ Check out <a href="https://github.com/DarinJoshua-dev?tab=repositories">my repos</a>! ⭐ Drop a Star if you like them! ⚡</b></h3>
