@@ -135,9 +135,11 @@
 
 <td><a href="https://cloud.google.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"></a></td>
 
-<td><a href="https://aws.amazon.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></td>
+<td><a href="https://aws.amazon.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/amazon-web-services.png"></a></td>
+  
+<td><a href="" target="_blank"><img height="48px" width="48px" src="https://github.com/github/explore/blob/main/topics/azure/azure.png"></a></td>
 
-<td><a href="https://www.tableau.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/tableau-software.png"></td>
+<td><a href="https://www.tableau.com/" target="_blank"><img height="48px" width="48px" src="https://img.icons8.com/color/48/000000/tableau-software.png"></a></td>
 </tr></p>
 </tbody>
 </table>
