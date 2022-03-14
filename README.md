@@ -4,7 +4,7 @@
 [![I'm Darin Joshua](https://res.cloudinary.com/darin-joshua/image/upload/v1597519821/EnhanceLinkedinBanner_2_o96nrs.png)](https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/)
 
 - 📢 About me ... Aspiring Developer & Designer 💻
-- 🔭 I’m currently working on ... Lot of awesome new ideas and innovative realtime projects 💥
+- 🔭 I’m currently working on ... Lot of awesome new ideas & innovative realtime projects 💥
 - 🌱 I’m currently learning ... Computer Science & Engineering. Also Exciting New & Old Technologies, APIs, DSA 🤩 
 - 🤝 I’m looking to collaborate on ... Amazing new opensource and ingenious ideas, projects 🎯
 - 🤔 I’m looking for help with ... Full Stack Development, Latest Technologies, Current Trends & Projects ✨
