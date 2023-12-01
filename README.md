@@ -203,7 +203,7 @@
   <summary>My Contributions Graph 📈</summary>
   <br>
 <p align=center>
-<img align=center src="https://activity-graph.herokuapp.com/graph?username=DarinJoshua-dev&theme=xcode">
+<img align=center src="https://github-readme-activity-graph.vercel.app/graph?username=DarinJoshua-dev&theme=xcode">
 </p>
 </details>
 <details>
