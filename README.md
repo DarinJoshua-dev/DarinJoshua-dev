@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on ... A lot of awesome new ideas and innovative realtime projects 💥
 - 🌱 I’m currently learning ... A variety of exciting technologies 🤩 
 - 🤝 I’m looking to collaborate on ... Amazing new, opensource and ingenious ideas, projects 🎯
-- 🤔 I’m looking for help with ... Full Stack Development, Latest Technologies, Product Management, Current Trends and AI Projects ✨
+- 🤔 I’m looking for help with ... Latest Technologies, Product Management, Current Trends and AI Projects ✨
 - 💬 Ask me about ... Anything related to Technology, Development, Innovation, Sports, Games, Music, Food, GK & News 🥇
 - 📫 How to reach me: ... <p> FOLLOW ME 🤗😁🙂 <a href="https://www.linkedin.com/in/darin-joshua-d"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> <a href="https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/"><img src="https://img.shields.io/website?logoColor=white&up_color=blue&up_message=visit%20now&url=https%3A%2F%2Fdarinjoshua-dev.github.io%2FDarin-Joshua-Portfolio%2F" alt="Website"></a> <a href="https://darinjoshua.hashnode.dev/"><img src="https://img.shields.io/badge/my%20blog-check out-blue"></a> <a href="mailto:dj2000official@gmail.com"><img src="https://img.shields.io/badge/email-mail%20now-blue"></a></p> 
 - 😁 Pronouns: ... He, Him, His, We, Us, Me ✌ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/hehim.svg" width=55 height=20>
