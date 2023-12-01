@@ -3,9 +3,9 @@
 **DarinJoshua-dev/DarinJoshua-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on my GitHub profile. -->
 [![I'm Darin Joshua](https://res.cloudinary.com/darin-joshua/image/upload/v1597519821/EnhanceLinkedinBanner_2_o96nrs.png)](https://darinjoshua-dev.github.io/Darin-Joshua-Portfolio/)
 
-- 📢 About me ... Aspiring Developer and Designer. CSE Grad 💻
-- 🔭 I’m currently working on ... Lot of awesome new ideas and innovative realtime projects 💥
-- 🌱 I’m currently learning ... Variety of Exciting Technologies 🤩 
+- 📢 About me ... Programmer Analyst at Cognizant. Designer. CSE Grad 💻
+- 🔭 I’m currently working on ... A lot of awesome new ideas and innovative realtime projects 💥
+- 🌱 I’m currently learning ... A variety of exciting technologies 🤩 
 - 🤝 I’m looking to collaborate on ... Amazing new, opensource and ingenious ideas, projects 🎯
 - 🤔 I’m looking for help with ... Full Stack Development, Latest Technologies, Current Trends and Projects ✨
 - 💬 Ask me about ... Anything related to Technology, Development, Innovation, Sports, Games, Music, Food, GK & News 🥇
@@ -13,7 +13,7 @@
 - 😁 Pronouns: ... He, Him, His, We, Us, Me ✌ <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/pronouns/hehim.svg" width=55 height=20>
 - ⚡ Fun fact: ... I'm a Passionate Learner and a Self-motivated Goal Achiever. I love to research, explore and learn old & new technology trends ⭐
 
-----> Darin Joshua, An Enterprising & Energetic Engineer or Developer who loves to create & work in innovative, efficient & strategic ways towards Tech, Computer Science and Development. A Tech-Enthusiast who adores New Technologies, Innovations, etc. A Bold Leader with Strong Team Synergy who enjoys to develop, design, manage & plan solutions. Also a Visionary who has tons of ideas !!
+----> Darin Joshua is an enterprising and energetic engineer or Developer who loves to create & work in innovative, efficient & strategic ways towards Tech, Computer Science and Development. A tech enthusiast who adores New Technologies, Innovations, etc. A Bold Leader with Strong Team Synergy who enjoys developing, designing, managing, and planning solutions. Also, a Visionary who has tons of ideas !!
 
 ## 🌐 Tech Stacks
 
